@@ -1,1 +1,2 @@
 The file created by github into repo docker
+Line added with changes
